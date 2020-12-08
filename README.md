@@ -2,6 +2,6 @@ A SmileBot hivatalos GitHub oldala.
 
 Ha hibát tapasztalsz a "Issues" fülön jelentsd kérlek!
 
-Weboldal: http://www.smilebot.tk
+Weboldal: https://smilebots.000webhostapp.com
 
 Support szerver:https://discord.gg/KXDwzFa
